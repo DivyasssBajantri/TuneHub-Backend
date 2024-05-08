@@ -1,0 +1,29 @@
+body {
+  font-family: "Roboto", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:url("index image.png");
+  background-size: cover;
+ 
+}
+input#Registration{
+	width:200px;
+	padding:7px;
+	font-size:16px;
+	font-family:sans-serif;
+	font-weight:600;
+	border:none;
+	border-radius:5px;
+	background-color:rgba(250,100,0,0.8);
+	color:#fff;
+	cursor:pointer;
+	border:1px solid
+	rgba(255,255,0.3);
+	box-shadow:1px 1px 5px
+	rgba(0,0,0,0.3);
+	
+}
+
+

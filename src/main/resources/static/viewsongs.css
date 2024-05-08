@@ -1,0 +1,13 @@
+table {
+    width: 50%; /* Adjust width as needed */
+    margin: 0 auto; /* Center align the table */
+}
+
+th, td {
+    text-align: center; /* Center align table headers and cells */
+}
+
+audio {
+    display: block; /* Ensure audio player is centered */
+    margin: 0 auto; /* Center align audio player */
+}
